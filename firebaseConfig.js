@@ -10,13 +10,13 @@ import "firebase/compat/storage";
 // Initialize Firebase
 //파이어베이스 사이트에서 봤던 연결정보를 여기에 가져옵니다
 const firebaseConfig = {
-  apiKey: "AIzaSyAz1jdFJgDOEUMemQY1_rM6nb3aGbafBn0",
-  authDomain: "sparta-myhoneytip-kim-eff5f.firebaseapp.com",
-  projectId: "sparta-myhoneytip-kim-eff5f",
-  databaseURL:"https://sparta-myhoneytip-kim-eff5f-default-rtdb.asia-southeast1.firebasedatabase.app",
-  storageBucket: "sparta-myhoneytip-kim-eff5f.appspot.com",
-  messagingSenderId: "223496031697",
-  appId: "1:223496031697:web:c5ca0effd5b988d9da64f0",
+  apiKey: "your api",
+  authDomain: "your authDomain",
+  projectId: "your Project ID",
+  databaseURL:"your database url",
+  storageBucket: "your storage",
+  messagingSenderId: "sender ID",
+  appId: "your app_id",
   measurementId: "G-88GFW2YB7Z"
 };
   
